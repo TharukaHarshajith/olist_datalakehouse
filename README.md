@@ -353,25 +353,6 @@ Implemented:
 
 ---
 
-# 📂 Repository Structure
-
-```text
-project/
-│
-├── notebooks/
-│   ├── landing/
-│   ├── bronze/
-│   ├── silver/
-│   └── gold/
-│
-├── sql/
-├── datasets/
-├── jobs/
-├── docs/
-└── README.md
-```
-
----
 
 # 🌟 Project Highlights
 
