@@ -385,12 +385,9 @@ Planned enhancements:
 
 - Kafka streaming ingestion
 - Auto Loader incremental loading
-- CI/CD integration
 - Power BI dashboards
 - ML pipeline integration
 - AI analytics chatbot
-- Data drift monitoring
-- Advanced orchestration
 
 ---
 
