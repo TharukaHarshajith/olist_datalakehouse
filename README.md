@@ -1,4 +1,4 @@
-# 🚀 AI-Powered E-Commerce Lakehouse ETL Pipeline
+# Modern E-Commerce Lakehouse ETL Pipeline ⭐
 
 ![Databricks](https://img.shields.io/badge/Databricks-ETL-red)
 ![PySpark](https://img.shields.io/badge/PySpark-BigData-orange)
