@@ -122,7 +122,8 @@ The project uses publicly available Brazilian e-commerce data including:
 - Sellers
 - Geolocation
 
-![Olist Relationship Diagram](docs/Olist_relationship_diagram.png)
+
+![Integration Model](docs/integration_model.drawio.png)
 
 ### Dataset Characteristics
 
@@ -312,8 +313,8 @@ Features:
 
 Implemented star-schema inspired modeling.
 
-![Integration Model](docs/integration_model.drawio.png)
 
+![Olist Relationship Diagram](docs/Olist_relationship_diagram.png)
 Concepts:
 
 - Fact tables
