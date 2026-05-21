@@ -75,6 +75,8 @@ The architecture follows industry best practices for:
 
 # 🏗 Architecture Overview
 
+![High Level Architecture](docs/high_level_architecture.png)
+
 ```text
 Raw CSV Files
       ↓
@@ -119,6 +121,8 @@ The project uses publicly available Brazilian e-commerce data including:
 - Reviews
 - Sellers
 - Geolocation
+
+![Olist Relationship Diagram](docs/Olist_relationship_diagram.png)
 
 ### Dataset Characteristics
 
@@ -277,6 +281,8 @@ Includes:
 
 Automated with Databricks Jobs.
 
+![Data Flow Diagram](docs/data_flow_diagram.drawio.png)
+
 Workflow:
 
 ```text
@@ -291,6 +297,8 @@ Silver Transformations
 Gold View Creation
 ```
 
+![Databricks Job](docs/databricks_job.png)
+
 Features:
 
 - Scheduled execution
@@ -303,6 +311,8 @@ Features:
 # ⭐ Dimensional Modeling
 
 Implemented star-schema inspired modeling.
+
+![Integration Model](docs/integration_model.drawio.png)
 
 Concepts:
 
