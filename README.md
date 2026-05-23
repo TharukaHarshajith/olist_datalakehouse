@@ -314,7 +314,7 @@ Features:
 Implemented star-schema inspired modeling.
 
 
-![Olist Relationship Diagram](docs/Olist_relationship_diagram.png)
+![Olist Relationship Diagram](docs/Olist_relationship_diagram_V2.png)
 Concepts:
 
 - Fact tables
